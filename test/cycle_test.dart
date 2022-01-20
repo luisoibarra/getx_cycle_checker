@@ -2,9 +2,8 @@
 
 import 'dart:io';
 
+import 'package:getx_cycle_checker/getx_cycle_checker.dart';
 import 'package:test/test.dart';
-
-import '../bin/main.dart';
 
 void main() {
   
